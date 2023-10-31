@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi 👋, I'm Alfre Chazarreta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=F7781A&background=3768FF00&random=false&width=435&lines=Self+taught+Frontend+developer;Studying+FullStack+programming+%F0%9F%93%9A;Studying+computer+engineer+in+UCSE+%F0%9F%93%95;I'm+from+Santiago+del+Estero%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=F7781A&background=3768FF00&random=false&width=435&lines=Self+taught+Frontend+developer;Studying+FullStack+programming+%F0%9F%93%9A;Studying+computer+engineer+in+UCSE+%F0%9F%93%95;I'm+from+Santiago+del+Estero%2C+Arg+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" /></a>
 </p>
 <br>
 
