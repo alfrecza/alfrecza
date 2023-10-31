@@ -13,6 +13,7 @@
 - A passionate Self-taught Front-end developer
 - I like to train in my free time
 - Currently learning FullStack programmer in DigitalHouse
+- I am a computer engineering student in ![UCSE](http://www.ucse.edu.ar/)
 
 <br><br>
     
